@@ -6,5 +6,6 @@
     }
   },
   "defaultBase": "main",
-  "nxCloudUrl": "http://localhost:4203"
+  "nxCloudUrl": "http://localhost:4203",
+  "nxCloudAccessToken": "NGZiNjJiMDYtN2Y5ZC00ZDUyLWJmMmQtOGUxNjA1ZjAxY2E0fHJlYWQtd3JpdGU="
 }
